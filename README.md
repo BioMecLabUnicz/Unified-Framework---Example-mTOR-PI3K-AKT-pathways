@@ -1,4 +1,4 @@
-# Unified Framework: Example - mTOR/PI3K/AKT pathway
+# Unified Framework: Example - mTOR/PI3K/AKT model
 
 - mTORC/PI3K/AKT_Model.cps: copasi model
 - mTorODE.m: matlab function with ODE system
